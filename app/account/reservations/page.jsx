@@ -1,3 +1,4 @@
+import ReservationCard from "@/app/_components/ReservationCard";
 import Link from "next/link";
 
 export default function Page() {
